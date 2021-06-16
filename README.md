@@ -56,3 +56,4 @@ REF: http://ai2.appinventor.mit.edu/
 * Download files 
 * Upload files to http://ai2.appinventor.mit.edu/ 
 * Use http://puravidaapps.com/spreadsheet.php to make new spreadsheet, form and generate urls/entryids
+* Use AI2 companion app to install the app on IOS and Android devices 
